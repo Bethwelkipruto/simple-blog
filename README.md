@@ -1,4 +1,4 @@
-# Simple Blog
+# Simple Blog Post
 
 A simple blog application built with **HTML**, **CSS**, and **JavaScript**, using **JSON Server** as a mock backend for storing and retrieving blog posts.
 
